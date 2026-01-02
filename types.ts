@@ -15,10 +15,13 @@ export interface TestResult {
   answerCount?: number;
 }
 
-export interface DNSAnalysis {
-  recommendation: string;
-  explanation: string;
-  securityScore: number;
+export interface IPInfo {
+  ip: string;
+  city: string;
+  region: string;
+  country_name: string;
+  org: string;
+  asn: string;
 }
 
 export enum DNSRecordType {
