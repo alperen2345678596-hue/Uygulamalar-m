@@ -1,0 +1,5 @@
+{
+  "name": "DNS Speed Master & Analyzer",
+  "description": "A high-performance DNS testing and analysis tool that compares popular providers (Cloudflare, Google, Quad9) in real-time. Features include custom DoH server testing, record lookup analysis, and AI-powered network optimization advice using Gemini.",
+  "requestFramePermissions": []
+}
